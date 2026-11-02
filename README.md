@@ -216,4 +216,4 @@ Cartoonist is offered as a **full free version** with all features and updates i
 Get started today by downloading Cartoonist and unleash your creativity with ease!
 
 ---
-**Last updated:** 2026-11-02 01:57:00 UTC
+**Last updated:** 2026-11-02 08:42:47 UTC
